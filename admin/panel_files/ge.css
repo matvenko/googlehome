@@ -1,0 +1,86 @@
+@font-face {
+    font-family: BPG Glaho Arial V5;
+    src: url(BPGGLAH0.eot);
+}
+body {
+	padding:0px;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	font-family: BPG Glaho Arial V5, Sylfaen, Arial Unicode MS;
+	font-size: 11px;
+	font-weight:normal;
+	color: #333333;
+
+	SCROLLBAR-FACE-COLOR: #FFFFFF;
+	SCROLLBAR-HIGHLIGHT-COLOR: #E4E4E4;
+	SCROLLBAR-SHADOW-COLOR: #E4E4E4;
+	SCROLLBAR-3DLIGHT-COLOR: #E4E4E4;
+	SCROLLBAR-ARROW-COLOR: #C0C0C0;
+	SCROLLBAR-TRACK-COLOR: #E4E4E4;
+	SCROLLBAR-DARKSHADOW-COLOR: #E4E4E4;
+}
+tr, td, txt {
+	font-family: BPG Glaho Arial V5, Sylfaen, Arial Unicode MS;
+	font-size: 12px;
+	color: #333333;
+	line-height:15px;
+}
+h1 {
+    font-family: BPG Glaho Arial V5, Sylfaen, Arial Unicode MS;
+	font-size: 16px;
+	color: #274F83;
+	font-weight: bold;
+}
+h2 {
+	font-size: 11px;
+	color: #274F83;
+	font-weight: bold;
+}
+input, select, option, textarea {
+	font-family: Arial Unicode MS;
+	font-size: 11px;
+	color: #000000;
+	border: 1px solid #454545;
+}
+
+
+a{
+	color: #666666;
+	text-decoration:none;
+}
+a:hover{
+	color: #006DB7;
+	text-decoration:underline;
+}
+.topnav {
+	font-family: BPG Glaho Arial V5, Sylfaen, Arial Unicode MS;
+	color: #000000;
+	font-size: 11px;
+	text-decoration:none;
+	text-transform:uppercase;
+	font-weight:bold;
+}
+
+.dates {
+	font-family:Arial;
+	color:#BE263A;
+	font-weight:bold;
+	font-size:11px;
+}
+.button {
+	background-color: #7E7E7E;
+	color:#FFFFFF;
+}
+.hand {
+	cursor: hand;
+}
+.print_txt
+{
+	color:#000000;
+}
+
+.menu{
+	font-weight:bold;
+}
